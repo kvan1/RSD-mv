@@ -1,0 +1,19 @@
+Applikationsansvarlige
+Borger
+Forretningspartner
+Klinikere
+Ledelse
+Medarbejder
+Patienten
+Patienter
+Psykiatri
+RSD forretning
+RSD ledelse
+Samfundet
+Social
+Sundheds-IT projekter
+Sundhedsaktører
+Sundhedsledelse
+Syge
+Sygehus
+Sygehusledelse
