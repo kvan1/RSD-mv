@@ -15,3 +15,4 @@ Sætter arkitektur standard for RSD
 Sætter standard for styring og ledelse af projekter i RSD
 Udvikle vores måde at levere sundheds-IT med fokus på kvalitet
 Udvikling og implementering af systemer
+Vi kommer til at skulle have en klar holdning til hvad der gør en forskel for organisationen omkring teknologi implementering.

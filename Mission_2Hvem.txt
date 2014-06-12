@@ -6,10 +6,12 @@ Ledelse
 Medarbejder
 Patienten
 Patienter
+Politiske interessenter
 Psykiatri
 RSD forretning
 RSD ledelse
 Samfundet
+Slutbrugerne
 Social
 Sundheds-IT projekter
 Sundhedsaktører
@@ -17,3 +19,4 @@ Sundhedsledelse
 Syge
 Sygehus
 Sygehusledelse
+
